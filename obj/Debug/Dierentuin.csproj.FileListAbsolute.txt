@@ -1,0 +1,20 @@
+D:\ITVitae\C#\Dierentuin\Dierentuin\obj\Debug\Dierentuin.csprojAssemblyReference.cache
+D:\ITVitae\C#\Dierentuin\Dierentuin\obj\Debug\Dierentuin.Form1.resources
+D:\ITVitae\C#\Dierentuin\Dierentuin\obj\Debug\Dierentuin.Properties.Resources.resources
+D:\ITVitae\C#\Dierentuin\Dierentuin\obj\Debug\Dierentuin.csproj.GenerateResource.cache
+D:\ITVitae\C#\Dierentuin\Dierentuin\obj\Debug\Dierentuin.csproj.CoreCompileInputs.cache
+D:\ITVitae\C#\Dierentuin\Dierentuin\bin\Debug\Dierentuin.exe.config
+D:\ITVitae\C#\Dierentuin\Dierentuin\bin\Debug\Dierentuin.exe
+D:\ITVitae\C#\Dierentuin\Dierentuin\bin\Debug\Dierentuin.pdb
+D:\ITVitae\C#\Dierentuin\Dierentuin\obj\Debug\Dierentuin.exe
+D:\ITVitae\C#\Dierentuin\Dierentuin\obj\Debug\Dierentuin.pdb
+D:\ITVitae\C#\Dierentuin\Dierentuin MK-2\bin\Debug\Dierentuin.exe.config
+D:\ITVitae\C#\Dierentuin\Dierentuin MK-2\bin\Debug\Dierentuin.exe
+D:\ITVitae\C#\Dierentuin\Dierentuin MK-2\bin\Debug\Dierentuin.pdb
+D:\ITVitae\C#\Dierentuin\Dierentuin MK-2\obj\Debug\Dierentuin.csprojAssemblyReference.cache
+D:\ITVitae\C#\Dierentuin\Dierentuin MK-2\obj\Debug\Dierentuin.Form1.resources
+D:\ITVitae\C#\Dierentuin\Dierentuin MK-2\obj\Debug\Dierentuin.Properties.Resources.resources
+D:\ITVitae\C#\Dierentuin\Dierentuin MK-2\obj\Debug\Dierentuin.csproj.GenerateResource.cache
+D:\ITVitae\C#\Dierentuin\Dierentuin MK-2\obj\Debug\Dierentuin.csproj.CoreCompileInputs.cache
+D:\ITVitae\C#\Dierentuin\Dierentuin MK-2\obj\Debug\Dierentuin.exe
+D:\ITVitae\C#\Dierentuin\Dierentuin MK-2\obj\Debug\Dierentuin.pdb
